@@ -249,7 +249,7 @@ body {
 
 @media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
-    left: 59%;
+    left: 58%;
     top: -33%;
   }
 }
@@ -260,7 +260,7 @@ body {
   }
   .four .text-box p{
    white-space: pre;
-   font-size: 10px;
+   font-size: 11px;
   }
  
   .four .text-box {
