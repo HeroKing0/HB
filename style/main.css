@@ -120,6 +120,8 @@ body {
 .baloons img {
   display: inline-block;
   position: absolute;
+  width: 300px;
+  height: auto;
 }
 
 .baloons img:nth-child(even) {
@@ -247,8 +249,8 @@ body {
 
 @media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
-    left: 30%;
-    top: -40%;
+    left: 59%;
+    top: -33%;
   }
 }
 
@@ -258,7 +260,7 @@ body {
   }
   .four .text-box p{
    white-space: pre;
-   font-size: 15px;
+   font-size: 10px;
   }
  
   .four .text-box {
@@ -284,15 +286,19 @@ body {
   }
 
   .wish-hbd {
-    font-size: 2.2em;
+    font-size: 1.9em;
   }
 
   .wish h5 {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
   }
 
   .nine p {
     font-size: 1.5rem;
     font-weight: lighter;
   }
+  .nine .last-smile {
+    line-height: 1.25em;
+  }
+  
 }
